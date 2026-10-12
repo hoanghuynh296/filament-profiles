@@ -40,6 +40,14 @@
               "name": "Matte Light Green",
               "color": "#D0FF61",
               "images": []
+            },
+            {
+              "id": "c-1791812520989",
+              "name": "Đen",
+              "color": "#EC1C24",
+              "images": [
+                "/api/catalogue/images/img_1791812531_fb25620f.jpeg"
+              ]
             }
           ],
           "device_configs": [
@@ -35262,5 +35270,6 @@
         }
       ]
     }
-  ]
+  ],
+  "updated_at": 1791812531
 }
