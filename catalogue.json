@@ -19,7 +19,18 @@
               "name": "Transparent",
               "color": "#C0C1B7",
               "color_code": "",
-              "images": []
+              "images": [
+                "/api/catalogue/images/img_1791969478_45b1bf52.webp",
+                "/api/catalogue/images/img_1791969491_ab526c81.jpg"
+              ],
+              "purchase_links": [
+                {
+                  "id": "link-1791970449562",
+                  "platform": "Shopee",
+                  "url": "https://shopee.vn/product/1034894437/43233002017",
+                  "price": 140000
+                }
+              ]
             },
             {
               "id": "c-42-white",
@@ -13480,5 +13491,5 @@
       ]
     }
   ],
-  "updated_at": 1791965103
+  "updated_at": 1791970449
 }
