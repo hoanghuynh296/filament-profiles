@@ -7070,7 +7070,7 @@
             {
               "id": "c-cyan",
               "name": "Cyan",
-              "color": "#499CEE",
+              "color": "#1063BE",
               "images": [
                 "images/img_1792421130_c0fcc3fc.webp"
               ]
@@ -7078,7 +7078,7 @@
             {
               "id": "c-purple",
               "name": "Purple",
-              "color": "#4D2D73",
+              "color": "#725ED3",
               "images": [
                 "images/img_1792421130_8553b2e3.webp"
               ]
@@ -7384,7 +7384,7 @@
             {
               "id": "c-green",
               "name": "Green",
-              "color": "#00A651",
+              "color": "#50DC4B",
               "images": [
                 "images/img_1792421130_0867220d.webp"
               ]
@@ -7481,7 +7481,7 @@
             {
               "id": "c-light-blue",
               "name": "Light Blue",
-              "color": "#6FB7E8",
+              "color": "#237DD7",
               "images": [
                 "images/img_1792421130_53e08955.webp"
               ]
@@ -7553,7 +7553,7 @@
             {
               "id": "c-hot-pink",
               "name": "Hot Pink",
-              "color": "#FF69B4",
+              "color": "#DB576A",
               "images": [
                 "images/img_1792421130_7b760a91.webp"
               ]
@@ -8397,7 +8397,7 @@
             {
               "id": "c-orange",
               "name": "Orange",
-              "color": "#F08000",
+              "color": "#BA632F",
               "images": [
                 "images/img_1792421130_7f51b766.webp"
               ]
@@ -8486,7 +8486,7 @@
             {
               "id": "c-pink",
               "name": "Pink",
-              "color": "#FFA7F5",
+              "color": "#F08C9E",
               "images": [
                 "images/img_1792421130_a7f9a8ee.webp"
               ]
@@ -8656,7 +8656,7 @@
             {
               "id": "c-red",
               "name": "Red",
-              "color": "#FF0000",
+              "color": "#7E3830",
               "images": [
                 "images/img_1792421130_6e045fdf.webp"
               ]
@@ -8991,7 +8991,7 @@
             {
               "id": "c-red",
               "name": "Red",
-              "color": "#FF0000",
+              "color": "#B22A2C",
               "images": [
                 "images/img_1792421130_51ad5cf5.webp"
               ]
@@ -9128,7 +9128,7 @@
             {
               "id": "c-asa-green",
               "name": "ASA Green",
-              "color": "#00CC33",
+              "color": "#19877F",
               "images": [
                 "images/img_1792421130_0ac1bf00.webp"
               ]
@@ -9258,7 +9258,7 @@
             {
               "id": "c-green",
               "name": "Green",
-              "color": "#00A651",
+              "color": "#057F6A",
               "images": [
                 "images/img_1792421130_9eeceaf2.webp"
               ]
@@ -9356,7 +9356,7 @@
             {
               "id": "c-blue",
               "name": "Blue",
-              "color": "#1E4FB4",
+              "color": "#5381C9",
               "images": [
                 "images/img_1792421130_de4c46c5.webp"
               ]
@@ -9364,7 +9364,7 @@
             {
               "id": "c-green",
               "name": "Green",
-              "color": "#00A651",
+              "color": "#78D144",
               "images": [
                 "images/img_1792421130_0fcf6c09.webp"
               ]
@@ -9576,7 +9576,7 @@
             {
               "id": "c-purple",
               "name": "Purple",
-              "color": "#6A3D9A",
+              "color": "#9F79D2",
               "images": [
                 "images/img_1792421130_9ac5b6af.webp"
               ]
@@ -9775,7 +9775,7 @@
             {
               "id": "c-matte-barbie-pink-h-ng-barbie-m",
               "name": "Matte Barbie Pink (Hồng Barbie mờ)",
-              "color": "#E0218A",
+              "color": "#BF82BC",
               "images": [
                 "images/img_1792421130_54d34af8.webp"
               ]
@@ -10573,7 +10573,7 @@
             {
               "id": "c-green",
               "name": "Green",
-              "color": "#2E9E4F",
+              "color": "#4CC5B0",
               "images": [
                 "images/img_1792421130_9fee1ff2.webp"
               ]
@@ -10581,7 +10581,7 @@
             {
               "id": "c-orange",
               "name": "Orange",
-              "color": "#F28C28",
+              "color": "#D96341",
               "images": [
                 "images/img_1792421130_7a90f9ab.webp"
               ]
@@ -10754,7 +10754,7 @@
             {
               "id": "c-olive-green",
               "name": "Olive Green",
-              "color": "#708238",
+              "color": "#535E43",
               "images": [
                 "images/img_1792421130_7c8f8d8c.webp"
               ]
@@ -10786,7 +10786,7 @@
             {
               "id": "c-powder-blue",
               "name": "Powder Blue",
-              "color": "#A9C6E8",
+              "color": "#9AD0D0",
               "images": [
                 "images/img_1792421130_5d4af297.webp"
               ]
@@ -11155,7 +11155,7 @@
             {
               "id": "c-orange",
               "name": "Orange",
-              "color": "#F28C28",
+              "color": "#F2582F",
               "images": [
                 "images/img_1792421130_760670b4.webp"
               ]
@@ -11252,7 +11252,7 @@
             {
               "id": "c-orange",
               "name": "Orange",
-              "color": "#F28C28",
+              "color": "#E65930",
               "images": [
                 "images/img_1792421130_273b178e.webp"
               ]
