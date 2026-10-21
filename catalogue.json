@@ -13751,13 +13751,13 @@
             {
               "id": "c-grey",
               "name": "Grey",
-              "color": "#8A8D8F",
+              "color": "#8A8C90",
               "images": [
                 "images/img_1792421130_709e3db0.webp"
               ],
-              "confidence": 40,
+              "confidence": 90,
               "origin_url": "https://www.jamghe.com/products/pla-plus-1-75mm-3d-printer-filament-1kg?variant=47524054532389",
-              "confidence_note": "Hex lệch ảnh sản phẩm (ảnh ~#5B5C5F), chưa sửa"
+              "confidence_note": "Đã tự pick màu theo ảnh"
             },
             {
               "id": "c-yellow",
@@ -15014,5 +15014,5 @@
       ]
     }
   ],
-  "updated_at": 1792127857
+  "updated_at": 1792470909
 }
