@@ -1,0 +1,495 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-10-29",
+  "styles": [
+    {
+      "id": "pastel_kawaii",
+      "name": "Pastel Kawaii",
+      "description": "Màu kẹo nhạt, mềm và dễ thương",
+      "colors": [
+        "#F8C8DC",
+        "#BDE0FE",
+        "#FFF1A8",
+        "#CDEAC0",
+        "#E2C6FF"
+      ],
+      "suits": [
+        "chibi",
+        "đồ chơi",
+        "thú cưng",
+        "quà tặng"
+      ],
+      "events": [
+        "children_day",
+        "valentine",
+        "womens_day_vn"
+      ]
+    },
+    {
+      "id": "candy",
+      "name": "Candy",
+      "description": "Màu kẹo ngọt rực, tương phản vui mắt",
+      "colors": [
+        "#FF4F8B",
+        "#FFD23F",
+        "#3BCEAC",
+        "#7B61FF",
+        "#FF8C42"
+      ],
+      "suits": [
+        "đồ chơi",
+        "fidget",
+        "móc khoá"
+      ],
+      "events": [
+        "children_day",
+        "halloween"
+      ]
+    },
+    {
+      "id": "cottagecore",
+      "name": "Cottagecore",
+      "description": "Đồng quê ấm áp: kem, xanh rêu, hồng đất",
+      "colors": [
+        "#F3E9DC",
+        "#A3B18A",
+        "#D4A5A5",
+        "#8B6F47",
+        "#588157"
+      ],
+      "suits": [
+        "chậu cây",
+        "decor",
+        "nhà cửa"
+      ],
+      "events": [
+        "mothers_day",
+        "womens_day_vn"
+      ]
+    },
+    {
+      "id": "gothic_dark",
+      "name": "Gothic / Dark",
+      "description": "Đen tuyền, đỏ rượu và tím than",
+      "colors": [
+        "#111111",
+        "#5B0E2D",
+        "#3A1F5D",
+        "#7A7A7A"
+      ],
+      "suits": [
+        "tượng",
+        "đầu lâu",
+        "fantasy"
+      ],
+      "events": [
+        "halloween"
+      ]
+    },
+    {
+      "id": "retro_70s",
+      "name": "Retro 70s",
+      "description": "Cam đất, nâu, vàng mù tạt",
+      "colors": [
+        "#D9822B",
+        "#8C4A2F",
+        "#E8B030",
+        "#4F6D3A",
+        "#F2E3C6"
+      ],
+      "suits": [
+        "decor",
+        "đèn",
+        "kệ"
+      ],
+      "events": []
+    },
+    {
+      "id": "mid_century",
+      "name": "Mid-century Modern",
+      "description": "Teal, vàng mù tạt, gỗ óc chó",
+      "colors": [
+        "#2A7F7F",
+        "#E0A526",
+        "#6B4226",
+        "#E9E4D4",
+        "#C2512F"
+      ],
+      "suits": [
+        "đồ nội thất",
+        "đèn",
+        "decor"
+      ],
+      "events": []
+    },
+    {
+      "id": "vaporwave",
+      "name": "Vaporwave / Synthwave",
+      "description": "Hồng neon, tím, xanh cyan trên nền tối",
+      "colors": [
+        "#FF71CE",
+        "#01CDFE",
+        "#05FFA1",
+        "#B967FF",
+        "#2B1B4B"
+      ],
+      "suits": [
+        "xe",
+        "logo",
+        "decor game"
+      ],
+      "events": []
+    },
+    {
+      "id": "y2k",
+      "name": "Y2K",
+      "description": "Bạc ánh kim, hồng bubblegum, xanh baby",
+      "colors": [
+        "#C0C0C8",
+        "#FF8AD8",
+        "#8AD0FF",
+        "#B6FF6E",
+        "#FFFFFF"
+      ],
+      "suits": [
+        "móc khoá",
+        "phụ kiện",
+        "điện thoại"
+      ],
+      "events": [
+        "valentine"
+      ]
+    },
+    {
+      "id": "cyberpunk_neon",
+      "name": "Cyberpunk Neon",
+      "description": "Vàng chanh, hồng neon, xanh cyan trên đen",
+      "colors": [
+        "#FCEE0A",
+        "#FF2A6D",
+        "#05D9E8",
+        "#0D0221",
+        "#3F1A6B"
+      ],
+      "suits": [
+        "robot",
+        "mũ",
+        "cosplay",
+        "xe"
+      ],
+      "events": []
+    },
+    {
+      "id": "industrial",
+      "name": "Industrial",
+      "description": "Xám bê tông, đen sắt, cam an toàn",
+      "colors": [
+        "#4A4A4A",
+        "#1E1E1E",
+        "#B0B0B0",
+        "#F26B1D"
+      ],
+      "suits": [
+        "dụng cụ",
+        "giá đỡ",
+        "máy"
+      ],
+      "events": []
+    },
+    {
+      "id": "steampunk",
+      "name": "Steampunk",
+      "description": "Đồng thau, đồng đỏ, nâu da",
+      "colors": [
+        "#B5853B",
+        "#8C4A2F",
+        "#3B2A1A",
+        "#C9A66B",
+        "#2F2F2F"
+      ],
+      "suits": [
+        "bánh răng",
+        "đồng hồ",
+        "máy móc"
+      ],
+      "events": []
+    },
+    {
+      "id": "galaxy",
+      "name": "Galaxy",
+      "description": "Tím than, xanh đêm, ánh sao",
+      "colors": [
+        "#1B1B3A",
+        "#3D2C8D",
+        "#916BBF",
+        "#C996CC",
+        "#E6E6FA"
+      ],
+      "suits": [
+        "hành tinh",
+        "đèn",
+        "decor"
+      ],
+      "events": []
+    },
+    {
+      "id": "scandinavian",
+      "name": "Scandinavian",
+      "description": "Trắng ngà, xám nhạt, gỗ sáng, xanh xám",
+      "colors": [
+        "#F5F5F0",
+        "#D9D9D6",
+        "#C8A97E",
+        "#8DA7A3",
+        "#3E3E3E"
+      ],
+      "suits": [
+        "đồ nội thất",
+        "chậu cây",
+        "nhà cửa"
+      ],
+      "events": []
+    },
+    {
+      "id": "mono_bw",
+      "name": "Đơn sắc đen trắng",
+      "description": "Chỉ đen, trắng và xám",
+      "colors": [
+        "#111111",
+        "#FFFFFF",
+        "#7F7F7F"
+      ],
+      "suits": [
+        "mọi loại",
+        "kỹ thuật",
+        "logo"
+      ],
+      "events": []
+    },
+    {
+      "id": "luxury",
+      "name": "Luxury",
+      "description": "Đen, vàng gold, trắng ngà",
+      "colors": [
+        "#0F0F0F",
+        "#C9A227",
+        "#F4EFE6",
+        "#5A4632"
+      ],
+      "suits": [
+        "quà tặng",
+        "logo",
+        "bình hoa"
+      ],
+      "events": [
+        "tet",
+        "christmas",
+        "black_friday"
+      ]
+    },
+    {
+      "id": "earth_tones",
+      "name": "Earth tones",
+      "description": "Màu đất: be, nâu, xanh ô liu",
+      "colors": [
+        "#CDB79E",
+        "#8B5A2B",
+        "#6B8E23",
+        "#A0522D",
+        "#D2B48C"
+      ],
+      "suits": [
+        "chậu cây",
+        "decor",
+        "đồ gỗ giả"
+      ],
+      "events": []
+    },
+    {
+      "id": "ocean",
+      "name": "Biển",
+      "description": "Xanh biển, cát, san hô",
+      "colors": [
+        "#0077B6",
+        "#00B4D8",
+        "#90E0EF",
+        "#F4D58D",
+        "#FF7F50"
+      ],
+      "suits": [
+        "cá",
+        "thuyền",
+        "bãi biển"
+      ],
+      "events": []
+    },
+    {
+      "id": "forest",
+      "name": "Rừng",
+      "description": "Xanh rừng, rêu, nâu thân cây",
+      "colors": [
+        "#1F5E2E",
+        "#4E8B3A",
+        "#9BC53D",
+        "#6B4226",
+        "#D9C589"
+      ],
+      "suits": [
+        "cây",
+        "thú rừng",
+        "nấm"
+      ],
+      "events": []
+    },
+    {
+      "id": "true_colors",
+      "name": "Màu thật của vật",
+      "description": "Tô theo màu ngoài đời của từng phần (lá xanh, bánh xe đen…)",
+      "colors": [
+        "#2E8B3E",
+        "#1A1A1A",
+        "#C0392B",
+        "#F1C40F",
+        "#8B5A2B"
+      ],
+      "suits": [
+        "xe",
+        "động vật",
+        "đồ ăn",
+        "nhân vật"
+      ],
+      "events": []
+    },
+    {
+      "id": "lego_basic",
+      "name": "Lego / màu cơ bản",
+      "description": "Đỏ, vàng, xanh dương, xanh lá, trắng như đồ chơi lắp ghép",
+      "colors": [
+        "#D01012",
+        "#FFCD03",
+        "#006CB7",
+        "#00AF4D",
+        "#FFFFFF"
+      ],
+      "suits": [
+        "đồ chơi",
+        "xe",
+        "robot"
+      ],
+      "events": [
+        "children_day"
+      ]
+    },
+    {
+      "id": "anime_cel",
+      "name": "Anime / Cel-shade",
+      "description": "Màu phẳng, sáng, viền tối rõ",
+      "colors": [
+        "#FF6F91",
+        "#FFC75F",
+        "#4FC3F7",
+        "#F9F871",
+        "#2C2C54"
+      ],
+      "suits": [
+        "nhân vật",
+        "chibi",
+        "mô hình"
+      ],
+      "events": []
+    },
+    {
+      "id": "camo",
+      "name": "Camo",
+      "description": "Rằn ri: xanh ô liu, nâu, kaki, đen",
+      "colors": [
+        "#4B5320",
+        "#78866B",
+        "#8B7D5B",
+        "#3B2F2F",
+        "#C3B091"
+      ],
+      "suits": [
+        "quân sự",
+        "xe",
+        "mô hình"
+      ],
+      "events": []
+    },
+    {
+      "id": "metallic",
+      "name": "Metallic",
+      "description": "Bạc, đồng, gunmetal, vàng kim",
+      "colors": [
+        "#C0C0C0",
+        "#B87333",
+        "#53565A",
+        "#D4AF37"
+      ],
+      "suits": [
+        "robot",
+        "xe",
+        "giáp",
+        "cosplay"
+      ],
+      "events": []
+    },
+    {
+      "id": "glow",
+      "name": "Dạ quang",
+      "description": "Xanh dạ quang, vàng chanh trên nền tối",
+      "colors": [
+        "#B8FF4A",
+        "#39FF14",
+        "#E6FF00",
+        "#1A1A1A"
+      ],
+      "suits": [
+        "đèn ngủ",
+        "halloween",
+        "biển báo"
+      ],
+      "events": [
+        "halloween"
+      ]
+    },
+    {
+      "id": "rainbow",
+      "name": "Cầu vồng",
+      "description": "Đủ 6 màu cầu vồng",
+      "colors": [
+        "#E40303",
+        "#FF8C00",
+        "#FFED00",
+        "#008026",
+        "#004DFF",
+        "#750787"
+      ],
+      "suits": [
+        "đồ chơi",
+        "cờ",
+        "decor"
+      ],
+      "events": [
+        "children_day"
+      ]
+    },
+    {
+      "id": "marble",
+      "name": "Marble",
+      "description": "Trắng đá, xám vân, điểm vàng",
+      "colors": [
+        "#F2F2F2",
+        "#BDBDBD",
+        "#6E6E6E",
+        "#C9A227"
+      ],
+      "suits": [
+        "bình hoa",
+        "tượng",
+        "decor"
+      ],
+      "events": []
+    }
+  ]
+}

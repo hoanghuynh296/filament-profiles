@@ -1,0 +1,253 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-10-29",
+  "events": [
+    {
+      "id": "new_year",
+      "name": "Tết Dương lịch (1/1)",
+      "rule": {
+        "kind": "solar",
+        "month": 1,
+        "day": 1
+      },
+      "styles": [
+        "luxury",
+        "rainbow"
+      ]
+    },
+    {
+      "id": "tet",
+      "name": "Tết Nguyên đán",
+      "rule": {
+        "kind": "lunar",
+        "month": 1,
+        "day": 1
+      },
+      "styles": [
+        "luxury",
+        "true_colors",
+        "candy"
+      ]
+    },
+    {
+      "id": "valentine",
+      "name": "Valentine",
+      "rule": {
+        "kind": "solar",
+        "month": 2,
+        "day": 14
+      },
+      "styles": [
+        "pastel_kawaii",
+        "y2k",
+        "candy"
+      ]
+    },
+    {
+      "id": "lantern",
+      "name": "Rằm tháng Giêng",
+      "rule": {
+        "kind": "lunar",
+        "month": 1,
+        "day": 15
+      },
+      "styles": [
+        "luxury",
+        "true_colors"
+      ]
+    },
+    {
+      "id": "womens_day",
+      "name": "Quốc tế Phụ nữ (8/3)",
+      "rule": {
+        "kind": "solar",
+        "month": 3,
+        "day": 8
+      },
+      "styles": [
+        "pastel_kawaii",
+        "cottagecore"
+      ]
+    },
+    {
+      "id": "easter",
+      "name": "Lễ Phục sinh",
+      "rule": {
+        "kind": "easter"
+      },
+      "styles": [
+        "pastel_kawaii",
+        "candy"
+      ]
+    },
+    {
+      "id": "reunification",
+      "name": "30/4 và 1/5",
+      "rule": {
+        "kind": "solar",
+        "month": 4,
+        "day": 30
+      },
+      "styles": [
+        "lego_basic",
+        "true_colors"
+      ]
+    },
+    {
+      "id": "children_day",
+      "name": "Quốc tế Thiếu nhi (1/6)",
+      "rule": {
+        "kind": "solar",
+        "month": 6,
+        "day": 1
+      },
+      "styles": [
+        "lego_basic",
+        "candy",
+        "rainbow",
+        "pastel_kawaii"
+      ]
+    },
+    {
+      "id": "mothers_day",
+      "name": "Ngày của Mẹ",
+      "rule": {
+        "kind": "nth_weekday",
+        "month": 5,
+        "weekday": 6,
+        "n": 2
+      },
+      "styles": [
+        "cottagecore",
+        "pastel_kawaii",
+        "luxury"
+      ]
+    },
+    {
+      "id": "fathers_day",
+      "name": "Ngày của Cha",
+      "rule": {
+        "kind": "nth_weekday",
+        "month": 6,
+        "weekday": 6,
+        "n": 3
+      },
+      "styles": [
+        "industrial",
+        "metallic",
+        "mid_century"
+      ]
+    },
+    {
+      "id": "vu_lan",
+      "name": "Vu Lan",
+      "rule": {
+        "kind": "lunar",
+        "month": 7,
+        "day": 15
+      },
+      "styles": [
+        "cottagecore",
+        "earth_tones"
+      ]
+    },
+    {
+      "id": "national_day",
+      "name": "Quốc khánh (2/9)",
+      "rule": {
+        "kind": "solar",
+        "month": 9,
+        "day": 2
+      },
+      "styles": [
+        "lego_basic",
+        "true_colors"
+      ]
+    },
+    {
+      "id": "mid_autumn",
+      "name": "Tết Trung thu",
+      "rule": {
+        "kind": "lunar",
+        "month": 8,
+        "day": 15
+      },
+      "styles": [
+        "candy",
+        "true_colors",
+        "glow"
+      ]
+    },
+    {
+      "id": "womens_day_vn",
+      "name": "Phụ nữ Việt Nam (20/10)",
+      "rule": {
+        "kind": "solar",
+        "month": 10,
+        "day": 20
+      },
+      "styles": [
+        "pastel_kawaii",
+        "cottagecore",
+        "luxury"
+      ]
+    },
+    {
+      "id": "halloween",
+      "name": "Halloween",
+      "rule": {
+        "kind": "solar",
+        "month": 10,
+        "day": 31
+      },
+      "styles": [
+        "gothic_dark",
+        "glow",
+        "candy"
+      ]
+    },
+    {
+      "id": "teachers_day",
+      "name": "Nhà giáo Việt Nam (20/11)",
+      "rule": {
+        "kind": "solar",
+        "month": 11,
+        "day": 20
+      },
+      "styles": [
+        "cottagecore",
+        "scandinavian",
+        "luxury"
+      ]
+    },
+    {
+      "id": "black_friday",
+      "name": "Black Friday",
+      "rule": {
+        "kind": "nth_weekday",
+        "month": 11,
+        "weekday": 3,
+        "n": 4,
+        "offset_days": 1
+      },
+      "styles": [
+        "mono_bw",
+        "luxury"
+      ]
+    },
+    {
+      "id": "christmas",
+      "name": "Giáng sinh",
+      "rule": {
+        "kind": "solar",
+        "month": 12,
+        "day": 25
+      },
+      "styles": [
+        "forest",
+        "luxury",
+        "true_colors"
+      ]
+    }
+  ]
+}
